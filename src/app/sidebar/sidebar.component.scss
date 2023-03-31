@@ -1,0 +1,105 @@
+.page-area{
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    margin-left: 2%;
+    margin-top: 5%;
+    
+   
+}
+p{
+ margin-left: 5px;
+}
+.visit{
+    /* border:1px solid black; */
+    width: 300px;
+    height: 117px;
+    border-bottom: none;
+    color:white ;
+   background:linear-gradient( #a4e3ff, #a4e3ff  );
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   flex-direction: row;
+   
+}
+.subdiv{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 120px;
+}
+
+.avg{
+   
+    width: 300px;
+    height: 120px;
+    border-bottom: none;
+    color:white ;
+    
+    background: linear-gradient( rgba(48, 212, 241, 0.952) , rgb(65, 219, 250));
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+
+}
+.per{
+    
+    width: 300px;
+    height: 120px;
+    border-bottom: none;
+    background: linear-gradient( rgba(36, 198, 223, 0.96) , rgb(56, 209, 240) );
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    
+}
+.bounce{
+    
+    width: 300px;
+    height: 120px;
+    border-bottom: none;
+    background: linear-gradient( rgba(37, 148, 238, 0.96) , rgb(56, 136, 240) );
+    color:white ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    
+}
+
+.page{
+    
+    width: 300px;
+    height: 120px;
+    border-bottom: none;
+    background: linear-gradient( rgba(13, 124, 189, 0.96) , rgb(24, 106, 212) );
+    color:white ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    
+}
+.goal{
+    
+    width: 300px;
+    height: 120px;
+    background: linear-gradient( rgba(40, 42, 129, 0.952) , #022b50 );
+    color:white ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    
+}
+.mat-icon{
+height: 50px;
+width: 50px;
+font-size: 50px;
+margin-right: 20px;
+}
